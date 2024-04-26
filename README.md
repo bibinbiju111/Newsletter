@@ -1,2 +1,2 @@
 # Newsletter
-Simple HTML,CSS Newsletter for Launchpad
+Simple HTML, CSS Newsletter for Launchpad
