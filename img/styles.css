@@ -1,0 +1,102 @@
+body {
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgb(243, 230, 230),rgb(157, 157, 192),rgb(142, 153, 142));  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fff7e6;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #01101f;
+    text-align: center;
+    font-family: "Jersey 20", sans-serif;
+    font-size: 45px;
+  }
+  
+  h2 {
+    color: #0d0d0d;
+  }
+  
+  p {
+    color: #666;
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+  }
+
+  
+  
+  .call-to-action {
+    background-color: #dbdfe4;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #e4e2e2;
+    border-style: solid; 
+  }
+  
+  .latest-updates ul {
+    padding-left: 20px;
+  }
+  
+  .event-roadmap ul {
+    padding-left: 20px;
+  }
+  
+  .event-roadmap h3 {
+    color: #101010;
+  }
+
+  .visit-site-button {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color: #31797e;
+    color: #ffffff;
+  }
+  
+  .btn:hover {
+    background-color: #286090;
+    border-color: #204d74;
+  }
+  .jersey-20-regular {
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.mukta-light {
+  font-family: "Mukta", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.mukta-regular {
+  font-family: "Mukta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+  
